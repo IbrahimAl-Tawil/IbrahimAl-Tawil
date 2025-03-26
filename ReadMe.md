@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a RoadSide assistance app<br>👯 I’m looking to collaborate on open source projects<br>🌱 I’m currently learning incorporating React Native and app development <br>
+🔭 I’m currently working on a RoadSide assistance app<br>👯 I’m looking to collaborate on open source projects<br>🌱 I’m currently learning incorporating AI in React Native and app development <br>
 
 
 ## 🌐 Socials:
