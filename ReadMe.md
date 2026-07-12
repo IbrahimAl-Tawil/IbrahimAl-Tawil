@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Pious Community<br>👯 I’m looking to collaborate on open source projects<br>🌱 I’m currently learning incorporating AI in React Native and app development <br>
+🔭 I’m currently working on Pious Community and Otterfund AI<br>👯 I’m looking to collaborate on open source projects<br>🌱 I’m currently working at postilize creating smart agentic workflows for lawyers and consultants <br>
 
 
 ## 🌐 Socials:
